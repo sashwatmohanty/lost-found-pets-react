@@ -1,0 +1,27 @@
+.txtstyle
+{
+   
+    text-align: center;
+    padding: 10px;
+    color: black;
+
+
+
+
+}
+.bgclor
+{
+ 
+    background-color: green;
+
+}
+header{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+nav a
+{
+    padding-left: 30px;
+}
